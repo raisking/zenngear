@@ -7,7 +7,9 @@ class App extends Component {
       <div>
         <nav className="navbar navbar-expand-lg navbar-light fixed-top" id="mainNav">
           <div className="container">
-            <a className="navbar-brand js-scroll-trigger" href="#page-top">Zenn Gear</a>
+            <a className="navbar-brand js-scroll-trigger" href="#page-top">
+              <img class="img-responsive" src="img/zg.png" />
+            </a>
             <button className="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
               <span className="navbar-toggler-icon"></span>
             </button>
@@ -107,7 +109,7 @@ class App extends Component {
           <div className="container-fluid p-0">
             <div className="row no-gutters popup-gallery">
               <div className="col-lg-4 col-sm-6">
-                <a className="portfolio-box" href="img/portfolio/fullsize/1.jpg">
+                <a className="portfolio-box" href="https://raisking.github.io/myPortfolio/">
                   <img className="img-fluid" src="img/portfolio/thumbnails/1.jpg" alt="" />
                   <div className="portfolio-box-caption">
                     <div className="portfolio-box-caption-content">
@@ -230,9 +232,6 @@ class App extends Component {
             </div>
           </div>
         </section>
-
-
-
       </div>
     );
   }
