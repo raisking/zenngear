@@ -8,7 +8,7 @@ class App extends Component {
         <nav className="navbar navbar-expand-lg navbar-light fixed-top" id="mainNav">
           <div className="container">
             <a className="navbar-brand js-scroll-trigger" href="#page-top">
-              <img class="img-responsive" src="img/zg.png" />
+              <img class="img-responsive" src="img/riyo.png" />
             </a>
             <button className="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
               <span className="navbar-toggler-icon"></span>
@@ -37,7 +37,7 @@ class App extends Component {
             <div className="row">
               <div className="col-lg-10 mx-auto">
                 <h1 className="text-uppercase">
-                  <strong>Zenn Gear</strong>
+                  <strong>RiyoInc</strong>
                 </h1>
                 <hr />
               </div>
