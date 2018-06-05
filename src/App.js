@@ -109,7 +109,7 @@ class App extends Component {
             <div className="row no-gutters popup-gallery">
               <div className="col-lg-4 col-sm-6">
                 <a className="portfolio-box" href="https://raisking.github.io/myPortfolio/">
-                  <img className="img-fluid" src="img/portfolio/thumbnails/1.jpg" alt="" />
+                  <img className="img-fluid" src="img/portfolio/thumbnails/riyo1.png" alt="" />
                   <div className="portfolio-box-caption">
                     <div className="portfolio-box-caption-content">
                       <div className="project-category text-faded">
@@ -124,7 +124,7 @@ class App extends Component {
               </div>
               <div className="col-lg-4 col-sm-6">
                 <a className="portfolio-box" href="img/portfolio/fullsize/2.jpg">
-                  <img className="img-fluid" src="img/portfolio/thumbnails/2.jpg" alt="" />
+                <img className="img-fluid" src="img/portfolio/thumbnails/riyo1.png" alt="" />
                   <div className="portfolio-box-caption">
                     <div className="portfolio-box-caption-content">
                       <div className="project-category text-faded">
@@ -139,7 +139,7 @@ class App extends Component {
               </div>
               <div className="col-lg-4 col-sm-6">
                 <a className="portfolio-box" href="img/portfolio/fullsize/3.jpg">
-                  <img className="img-fluid" src="img/portfolio/thumbnails/3.jpg" alt="" />
+                <img className="img-fluid" src="img/portfolio/thumbnails/riyo1.png" alt="" />
                   <div className="portfolio-box-caption">
                     <div className="portfolio-box-caption-content">
                       <div className="project-category text-faded">
@@ -154,7 +154,7 @@ class App extends Component {
               </div>
               <div className="col-lg-4 col-sm-6">
                 <a className="portfolio-box" href="img/portfolio/fullsize/4.jpg">
-                  <img className="img-fluid" src="img/portfolio/thumbnails/4.jpg" alt="" />
+                <img className="img-fluid" src="img/portfolio/thumbnails/riyo1.png" alt="" />
                   <div className="portfolio-box-caption">
                     <div className="portfolio-box-caption-content">
                       <div className="project-category text-faded">
@@ -169,7 +169,7 @@ class App extends Component {
               </div>
               <div className="col-lg-4 col-sm-6">
                 <a className="portfolio-box" href="img/portfolio/fullsize/5.jpg">
-                  <img className="img-fluid" src="img/portfolio/thumbnails/5.jpg" alt="" />
+                <img className="img-fluid" src="img/portfolio/thumbnails/riyo1.png" alt="" />
                   <div className="portfolio-box-caption">
                     <div className="portfolio-box-caption-content">
                       <div className="project-category text-faded">
@@ -184,7 +184,7 @@ class App extends Component {
               </div>
               <div className="col-lg-4 col-sm-6">
                 <a className="portfolio-box" href="img/portfolio/fullsize/6.jpg">
-                  <img className="img-fluid" src="img/portfolio/thumbnails/6.jpg" alt="" />
+                <img className="img-fluid" src="img/portfolio/thumbnails/riyo1.png" alt="" />
                   <div className="portfolio-box-caption">
                     <div className="portfolio-box-caption-content">
                       <div className="project-category text-faded">
