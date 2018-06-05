@@ -152,62 +152,9 @@ class App extends Component {
                   </div>
                 </a>
               </div>
-              <div className="col-lg-4 col-sm-6">
-                <a className="portfolio-box" href="img/portfolio/fullsize/4.jpg">
-                <img className="img-fluid" src="img/portfolio/thumbnails/riyo1.png" alt="" />
-                  <div className="portfolio-box-caption">
-                    <div className="portfolio-box-caption-content">
-                      <div className="project-category text-faded">
-                        Category
-              </div>
-                      <div className="project-name">
-                        Project Name
-              </div>
-                    </div>
-                  </div>
-                </a>
-              </div>
-              <div className="col-lg-4 col-sm-6">
-                <a className="portfolio-box" href="img/portfolio/fullsize/5.jpg">
-                <img className="img-fluid" src="img/portfolio/thumbnails/riyo1.png" alt="" />
-                  <div className="portfolio-box-caption">
-                    <div className="portfolio-box-caption-content">
-                      <div className="project-category text-faded">
-                        Category
-              </div>
-                      <div className="project-name">
-                        Project Name
-              </div>
-                    </div>
-                  </div>
-                </a>
-              </div>
-              <div className="col-lg-4 col-sm-6">
-                <a className="portfolio-box" href="img/portfolio/fullsize/6.jpg">
-                <img className="img-fluid" src="img/portfolio/thumbnails/riyo1.png" alt="" />
-                  <div className="portfolio-box-caption">
-                    <div className="portfolio-box-caption-content">
-                      <div className="project-category text-faded">
-                        Category
-              </div>
-                      <div className="project-name">
-                        Project Name
-              </div>
-                    </div>
-                  </div>
-                </a>
-              </div>
             </div>
           </div>
         </section>
-
-        {/* <section className="bg-dark text-white">
-          <div className="container text-center">
-            <h2 className="mb-4">Free Download at Start Bootstrap!</h2>
-            <a className="btn btn-light btn-xl sr-button" href="http://startbootstrap.com/template-overviews/creative/">Download Now!</a>
-          </div>
-        </section> */}
-
         <section id="contact">
           <div className="container">
             <div className="row">
