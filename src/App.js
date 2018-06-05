@@ -37,13 +37,12 @@ class App extends Component {
             <div className="row">
               <div className="col-lg-10 mx-auto">
                 <h1 className="text-uppercase">
-                  <strong>RiyoInc</strong>
+                  <strong></strong>
                 </h1>
-                <hr />
               </div>
               <div className="col-lg-8 mx-auto">
-                <p className="text-faded mb-5">Startup</p>
-                <a className="btn btn-primary btn-xl js-scroll-trigger" href="#about">Find Out More</a>
+                <p className="text-faded mb-5"></p>
+                <a className="btn btn-primary btn-xl js-scroll-trigger" href="#about">Find Out More About Our Products</a>
               </div>
             </div>
           </div>
@@ -202,12 +201,12 @@ class App extends Component {
           </div>
         </section>
 
-        <section className="bg-dark text-white">
+        {/* <section className="bg-dark text-white">
           <div className="container text-center">
             <h2 className="mb-4">Free Download at Start Bootstrap!</h2>
             <a className="btn btn-light btn-xl sr-button" href="http://startbootstrap.com/template-overviews/creative/">Download Now!</a>
           </div>
-        </section>
+        </section> */}
 
         <section id="contact">
           <div className="container">
