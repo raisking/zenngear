@@ -8,7 +8,7 @@ class App extends Component {
         <nav className="navbar navbar-expand-lg navbar-light fixed-top" id="mainNav">
           <div className="container">
             <a className="navbar-brand js-scroll-trigger" href="#page-top">
-              <img class="img-responsive" src="img/riyo.png" />
+              <img class="img-responsive" src="img/riyoblue.png" />
             </a>
             <button className="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
               <span className="navbar-toggler-icon"></span>
@@ -42,7 +42,7 @@ class App extends Component {
                 <hr />
               </div>
               <div className="col-lg-8 mx-auto">
-                <p className="text-faded mb-5">Start Bootstrap can help you build better websites using the Bootstrap CSS framework! Just download your template and start going, no strings attached!</p>
+                <p className="text-faded mb-5">Startup</p>
                 <a className="btn btn-primary btn-xl js-scroll-trigger" href="#about">Find Out More</a>
               </div>
             </div>
@@ -236,5 +236,4 @@ class App extends Component {
     );
   }
 }
-
 export default App;
