@@ -220,12 +220,12 @@ class App extends Component {
             <div className="row">
               <div className="col-lg-4 ml-auto text-center">
                 <i className="fa fa-phone fa-3x mb-3 sr-contact"></i>
-                <p>123-456-6789</p>
+                <p>404 457 4257</p>
               </div>
               <div className="col-lg-4 mr-auto text-center">
                 <i className="fa fa-envelope-o fa-3x mb-3 sr-contact"></i>
                 <p>
-                  <a href="mailto:your-email@your-domain.com">feedback@startbootstrap.com</a>
+                  <a href="mailto:your-email@your-domain.com">raiprakas007@gmail.com</a>
                 </p>
               </div>
             </div>
